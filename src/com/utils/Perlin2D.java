@@ -1,3 +1,5 @@
+package com.utils;
+
 import java.util.Random;
 
 public class Perlin2D {
